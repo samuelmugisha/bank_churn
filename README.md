@@ -1,10 +1,9 @@
-# bank_churn
-Neural Network to predict if a customer will churn
+
 
 # Bank Churn Prediction
 
 Predicting customer churn to help banks identify at-risk customers and implement proactive retention strategies.
-
+Using Neural Networks
 ---
 
 ## Overview
