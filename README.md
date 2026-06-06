@@ -36,10 +36,6 @@ To build a neural network-based classifier that can accurately determine whether
 
 ## Dataset
 
-### Source
-- **Dataset provider:** Not explicitly specified, loaded from a CSV file.
-- **Link to dataset:** `/content/drive/MyDrive/MLProjects/ChurnNeuralNetwork/bank.csv`
-
 ### Description
 - **Number of records:** 10,000
 - **Number of features:** 14 initially, reduced to 11 after preprocessing.
@@ -218,13 +214,9 @@ Then, open the `Churn_Prediction_Neural_Network.ipynb` notebook and run all cell
 
 ## Author
 
-Your Name
+Samuel Mugisha D.C.
 
-LinkedIn:
-[LinkedIn URL]
+LinkedIn:[LinkedIn URL]https://
 
-GitHub:
-[GitHub URL]
+GitHub:[[[GitHub URL](https://github.com/samuelmugisha)]]()
 
-Email:
-[your.email@example.com]
